@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
