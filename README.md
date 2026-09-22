@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0492-construct-the-rectangle) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2469-convert-the-temperature) |
