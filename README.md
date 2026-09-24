@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0492-construct-the-rectangle) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
