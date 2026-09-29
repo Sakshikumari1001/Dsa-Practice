@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0234-palindrome-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
