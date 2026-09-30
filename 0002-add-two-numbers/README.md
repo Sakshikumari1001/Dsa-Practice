@@ -3,6 +3,7 @@
 <p>You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>
 
 <p>&nbsp;</p>
+
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg" style="width: 483px; height: 342px;" />
 <pre>
