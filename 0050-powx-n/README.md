@@ -33,4 +33,4 @@
 	<li>Either <code>x</code> is not zero or <code>n &gt; 0</code>.</li>
 	<li><code>-10<sup>4</sup> &lt;= x<sup>n</sup> &lt;= 10<sup>4</sup></code></li>
 </ul>
-sakshi 
+
