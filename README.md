@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0507-perfect-number) |
+| [0670-maximum-swap](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0670-maximum-swap) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2469-convert-the-temperature) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
