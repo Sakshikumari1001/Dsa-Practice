@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0279-perfect-squares) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0412-fizz-buzz) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -315,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0670-maximum-swap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
