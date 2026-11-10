@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0412-fizz-buzz) |
