@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1587-bank-account-summary-ii) |
+| [1873-calculate-special-bonus](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1873-calculate-special-bonus) |
 ## Stack
 |  |
 | ------- |
