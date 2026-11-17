@@ -24,4 +24,3 @@
 	<li><code>s</code> consist of only digits and English letters.</li>
 </ul>
 
-sakshi 
