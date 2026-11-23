@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sakshikumari01/Dsa-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Linked List
 |  |
 | ------- |
