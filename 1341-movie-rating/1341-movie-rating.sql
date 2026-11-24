@@ -6,7 +6,7 @@
     JOIN MovieRating mr
         ON u.user_id = mr.user_id
     GROUP BY u.user_id, u.name
-    ORDER BY COUNT(*) DESC, u.name ASC
+    ORDER BY COUNT(mr.movie_id) DESC, u.name ASC
     LIMIT 1
 )
 
